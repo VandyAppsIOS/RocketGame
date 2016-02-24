@@ -5,5 +5,5 @@ To get started, open a terminal shell and navigate to the location you'd like th
 
 Then run the following command:
 ```
-https://github.com/VandyAppsIOS/RocketGame.git
+git clone https://github.com/VandyAppsIOS/RocketGame.git
 ```
